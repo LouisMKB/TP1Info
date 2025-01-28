@@ -1,0 +1,7 @@
+categorical:
+  - name
+  - sex
+  - ticket
+  - cabin
+  - embarked
+  - title
